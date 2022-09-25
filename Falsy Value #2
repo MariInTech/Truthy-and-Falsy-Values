@@ -1,0 +1,8 @@
+let height;
+if (height) {
+  console.log('YAY! Height is defined');
+} else {
+  console.log('Height is UNDEFINED');
+}
+// We didn't assign a value to the variable height. Therefore, the variable height is undefined and automatically converted into a boolean.
+// Undefined is a falsy value, therefore, the else block is executed.
