@@ -1,0 +1,7 @@
+const money = 0;
+if (money) {
+  console.log("Don't spend it all ;)");
+} else {c
+  console.log("You should get a job!");
+}
+// 0 is a false value so in that case, the else block is executed.
