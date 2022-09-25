@@ -1,0 +1,7 @@
+const money = 100;
+if (money) {
+  console.log("Don't spend it all ;)");
+} else {c
+  console.log("You should get a job!");
+}
+//100 is a true value, so in this case the if block is executed
